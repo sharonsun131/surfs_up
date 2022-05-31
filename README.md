@@ -9,11 +9,15 @@ There is a bulleted list that addresses the three key differences in weather bet
 
 o	The average tempurature in June in Oahu is around 75 degrees F, while in December it is a little lower which is 71 degrees F. 
 
-o	The frequency of tempuratures in June has a 
+o The month of June has a relatively smaller standard deviation (3.26), which means that June tempurature is more close to the average tempurature.
+  
 
-o	Jfsdlkfj
-
+o	The maximum and minimum tempurature in June is 85 and 64 degrees F, while in December is 83 and 56 degrees F. In this case, December may not be
+  a good time to conduct ice cream and surfing business. 
+  
 
 ## Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+o	The 
+
+o	The 
