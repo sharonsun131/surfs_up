@@ -6,6 +6,10 @@ The purpose of the analysis is to help W. Avy to determine if the surf and ice c
 ## Results:
 
 There is a bulleted list that addresses the three key differences in weather between June and December.
+![June_temp](https://user-images.githubusercontent.com/102264298/171318182-cca73683-584b-4d84-82e4-84e907bfa906.png)
+
+![Dec_temp](https://user-images.githubusercontent.com/102264298/171318196-d023cbb8-b84b-4a8b-9f55-1965cc45ca02.png)
+
 
 o	The average tempurature in June in Oahu is around 75 degrees F, while in December it is a little lower which is 71 degrees F. 
 
@@ -15,6 +19,9 @@ o The month of June has a relatively smaller standard deviation (3.26), which me
 o	The maximum and minimum tempurature in June is 85 and 64 degrees F, while in December is 83 and 56 degrees F. In this case, December may not be
   a good time to conduct ice cream and surfing business during these low tempurature days. 
   
+![Dec](https://user-images.githubusercontent.com/102264298/171318270-33a5fce3-e6ed-4266-ab6e-0faa461c8c0c.png)
+
+![June](https://user-images.githubusercontent.com/102264298/171318286-7e1b9469-9571-40cf-8a3f-910c0182de61.png)
 
 ## Summary:
 
